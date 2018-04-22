@@ -1,3 +1,5 @@
+trained_knn_model.clf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
